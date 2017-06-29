@@ -2,7 +2,7 @@
 
 function print_usage {
     echo "esp32proj_init: Initialize simple ESP32 project with ESP-IDF"
-    echo  -e "\nUsage: esp32proj_init.sh [PROJECT_NAME]"
+    echo -e "\nUsage: esp32proj_init.sh [PROJECT_NAME]"
     echo -e "\n\n"
 }
 
