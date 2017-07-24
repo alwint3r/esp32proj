@@ -16,7 +16,7 @@ Here I cloned the repository to the `esp32proj` directory inside home directory.
 Next, set the `ESP32PROJ_PATH` environment variable with the path to esp32proj directory.
 
 ```bash
-export ESP32PROJ_PATH=$HOME/esp32proj
+$ export ESP32PROJ_PATH=$HOME/esp32proj
 ```
 
 Next append the value of `ESP32PROJ_PATH` environment variable to the `PATH` environment variable.
